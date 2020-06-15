@@ -1,0 +1,4 @@
+it is the smallest computer in the world - and 150 of them can fit in a thimble.
+its inventors say it can act as a smart sensor , and give everyday objects computing capabilities.
+the micro mote is the smallest computer in the world , measuring less than 2mm across.
+the micro mote contains solar cells that power the battery with ambient light , including indoor rooms with no natural sunlight , allowing the computers to run perpetually

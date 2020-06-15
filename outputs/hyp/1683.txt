@@ -1,0 +1,4 @@
+while google and apple are developing self driving vehicles , nasa has revealed its vision - and its a lot more fun.
+called the modular robotic vehicle , or mrv , it was developed at nasa 's johnson space center to show off the technologies that could let man move across other planets.
+on earth , however , it also has some neat tricks - from the ability to park sideways to being able to spin on the spot , as well as being driven remotely at up to 70mph.
+watch the buggy in action below unlike a normal car , the buggy has no mechanical linkages to the propulsion , steering , or brake actuators , the driver of an mrv relies completely on control inputs being converted to electrical signals and then transmitted by wires to the vehicle 's motors

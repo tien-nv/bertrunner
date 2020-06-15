@@ -1,0 +1,4 @@
+researchers from london and edinburgh are developing a computer that can collate meteorological information and then produce forecasts as if they were written by a human.
+useing a process known as ' natural language generation ' ( nlg ) , it has the potential to one day be used in humanoid robots on our tv screens.
+researchers from london and edinburgh have developed a computer that can collate meterological information and then produce forecasts as if they were written by a human.
+it uses a process known as ' natural language generation ' ( nlg ) these computer - generated weather updates are being being tested by scientists at heriot-watt university and university college london

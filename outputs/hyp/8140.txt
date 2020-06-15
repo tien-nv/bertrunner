@@ -1,0 +1,4 @@
+a massachusetts police department was forced to pay a $ 500 bitcoin ransom to hackers who encrypted vital records on their computer network.
+tewksbury police department came under attack by criminals who infected their network with a form of internet malware in december before demanding money to decrypt the files.
+the program called cryptolocker infects through an e-mail and then scrambles the data on the computer.
+tewksbury police department ( above ) came under attack by hackers which encrypted their computers ' files using a malware program called cryptolocker

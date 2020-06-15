@@ -1,0 +1,4 @@
+ultrahaptics is a young company with a big dream : changing the way we interact with electronic devices.
+their technology creates tactile three - dimensional shapes literally out of thin air , using ultrasound.
+changes in air pressure are perceived as suspended tactile surfaces , creating invisible -- but tangible -- interfaces.
+the rising tide of virtual reality seems unstoppable : facebook 's oculus rift and magic leap are leading the pack , but several other companies are readying devices in a field that could shake the foundations of electronic entertainment

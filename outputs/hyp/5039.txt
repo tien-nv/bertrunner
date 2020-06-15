@@ -1,0 +1,4 @@
+a new app makes creating the images simple on a smartphone - and lets you send them using facebook messenger.
+camoji is one of the first apps to take advantage of facebook 's decision to open up messenger , revealed at its recent f8 conference in san francisco.
+camoji allows people to add instagram style filters to their images before sharing them.
+the gifs are created in the camoji app. once downloaded , users simply tap on the shutter icon to record an animated gif that is up to 2 seconds long

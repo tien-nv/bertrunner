@@ -1,0 +1,4 @@
+researchers have created a sensor that can recognise the unique shape of your ear , your palm or any other body part you want to use to access your device.
+called bodyprint , the technology turns a standard touchscreen into a biometric scanner removing the need to specialist hardware such as fingerprint readers or infrared cameras.
+details of its algorithm are included in their paper , bodyprint : biometric user identification on mobile devices using the capacitive touchscreen to scan body parts.
+the salt card is designed to end the tiresome task of manually unlocking a smartphone or tablet by automatically making it come to life whenever the user is nearby

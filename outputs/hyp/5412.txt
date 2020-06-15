@@ -1,0 +1,4 @@
+intel has shown of a terrifying glimpse of the future - a swarm of robot spiders that can be controlled with a flick of the wrist.
+at the chip giant 's developers forum in china , intel ceo krzanich revealed the demonstration to show off the firm 's button sized computed and controller wristband.
+he was able to cause lights on the robots to change shape , and control their movement from the bans.
+' the curie wristband can understand motion , and actually interpret if you 're running , walking of swimming , ' said krzanich ' the intel curie module is a tiny hardware product based on the intel quark se system chip , which is the company 's first purpose - built system on a chip for wearable devices , ' the firm said

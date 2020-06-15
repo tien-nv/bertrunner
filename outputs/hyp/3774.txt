@@ -1,0 +1,4 @@
+apple offers a range of ways to unlock its devices from pins to passwords and fingerprints.
+but you could soon use a selfie to gain access to your apps and messages thanks to apple 's latest patent.
+the filing details a system of scanning a user 's face with the front - facing camera when the handset is moved into a certain position , and automatically unlocking the device if the image matches one on file.
+it details a method of scanning a user 's face using the front - facing camera each time the phone is moved into a certain position

@@ -1,0 +1,4 @@
+a new collaborative robot can work alongside human factory workers helpful robots are typically shown as mechanical maids or humanoid teachers in sci - fi films.
+but now there âs a new collaborative robot that can work alongside human factory workers to give them a helping hand.
+the fanuc cr-35ia claims to be the first ' heavy - lifting industrial collaborative robot ' to work with humans without the need for safety fences.
+the coventry - based company fanuc 's robot uses integrated vision technology called irvision to keep an eye on humans and automatically stops if it touches an operator
